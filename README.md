@@ -1,1 +1,1 @@
-# Data-Analysis-Project-Population-Educational-institutions
+# Population/Schools(Data Analysis Project)
