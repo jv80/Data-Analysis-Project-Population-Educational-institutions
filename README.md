@@ -10,4 +10,4 @@ Two different datasets were used in this project:
 1. Data wringling of Census 2016 and school datasets.
 2. Creation of two new processed datasets for female and male between 0 and 17 years old from Census 2016. 
 3. Visualization of the data in a map of Vancouver.
-##Workflow of Data Generation
+## Workflow of Data Generation
