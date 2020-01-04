@@ -11,5 +11,4 @@ Two different datasets were used in this project:
 2. Creation of two new processed datasets for female and male between 0 and 17 years old from Census 2016. 
 3. Visualization of the data in a map of Vancouver.
 ## Workflow of Data Generation
-![alt text][logo]
 [logo]:https://github.com/jv80/Population-Schools/blob/master/Images/workflowDataGeneration.png
