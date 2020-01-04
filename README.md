@@ -34,5 +34,5 @@ The map was generated using GeoPandas.
 
 | Input File | Work File | Output File|
 |--------------------------------:|--------------------------------:|--------------------------------:|
-|[CensusLocalAreaProfiles2016.csv](https://github.com/jv80/Population-Schools/blob/master/Data/CensusLocalAreaProfiles2016.csv)|[CensusLocalAreaProfiles2016.csv](https://github.com/jv80/Population-Schools/blob/master/Data/CensusLocalAreaProfiles2016.csv)|[CensusLocalAreaProfiles2016.csv](https://github.com/jv80/Population-Schools/blob/master/Data/CensusLocalAreaProfiles2016.csv)
+|[CensusLocalAreaProfiles2016.csv](https://github.com/jv80/Population-Schools/blob/master/Data/CensusLocalAreaProfiles2016.csv)|[ProcessingCensus2016.ipynb](https://github.com/jv80/Population-Schools/blob/master/Work%20Files/ProcessingCensus2016.ipynb)|[CensusLocalAreaProfiles2016_cleaned.csv](https://github.com/jv80/Population-Schools/blob/master/Data/CensusLocalAreaProfiles2016_cleaned.csv)
 
