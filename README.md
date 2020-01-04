@@ -33,6 +33,6 @@ The map was generated using GeoPandas.
 ### Summary
 
 | Input File | Work File | Output File|
-
-
+|
+|[CensusLocalAreaProfiles2016.csv](https://github.com/jv80/Population-Schools/blob/master/Data/CensusLocalAreaProfiles2016.csv)|
 
