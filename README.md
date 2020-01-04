@@ -17,6 +17,7 @@ Three different datasets were used in this project:
 ## Workflows 
 Three different workflows were used in this work in order to generate a final map of the 22 local planning areas of the City os Vancouver with a the localization of the schools, amount of people between 0 and 17 years old.
 ### Workflow of data wringling of Census 2016 dataset
+![alt text](https://github.com/jv80/Population-Schools/blob/master/Diagrams/workflow1.png)
 ![alt text](https://github.com/jv80/Population-Schools/blob/master/Diagrams/block_diagram.png)
 ![alt text](https://github.com/jv80/Population-Schools/blob/master/Images/workflowDataGeneration.PNG)
 ### Workflow of generation of two separated datasets (Female and Male)
