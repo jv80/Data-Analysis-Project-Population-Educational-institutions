@@ -12,4 +12,4 @@ Two different datasets were used in this project:
 3. Visualization of the data in a map of Vancouver.
 ## Workflow of Data Generation
 ![alt text][logo]
-[logo]:https://github.com/jv80/Population-Schools/blob/master/Images/workflowData.dio
+[logo]:https://github.com/jv80/Population-Schools/blob/master/Images/workflowDataGeneration.png
