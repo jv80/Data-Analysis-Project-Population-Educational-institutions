@@ -1,6 +1,6 @@
 # Population/Schools(Data Analysis Project)
-Population/Schools is a personal work that show different faces of data analysis and processing with real datasets.
-The goal of this project is show examples of input/output data, data cleaning, visualization and data analysis.
+Population/Schools is a personal work that show different faces of data analysis and data processing with real datasets.
+The goal of this project is to show examples of input/output data, data cleaning, visualization and data analysis.
 ## Datasets
 Two different datasets were used in this project:
 1. [Dataset of Vancouver census 2016 using the City's 22 local planning areas from City of Vancouver open data website](https://data.vancouver.ca/datacatalogue/censusLocalAreaProfiles2016.htm "City of Vancouver open data portal")
@@ -12,4 +12,4 @@ Two different datasets were used in this project:
 3. Visualization of the data in a map of Vancouver.
 ## Workflow of Data Generation
 ![alt text][logo]
-[logo]: https://github.com/jv80/Population-Schools/blob/master/Images/workflowData.dio
+[logo]:https://github.com/jv80/Population-Schools/blob/master/Images/workflowData.dio
