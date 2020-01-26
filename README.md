@@ -24,7 +24,7 @@ Three different workflows were used in this work in order to generate a final ma
 |[CensusLocalAreaProfiles2016.csv](https://github.com/jv80/Population-Schools/blob/master/Data/CensusLocalAreaProfiles2016.csv)|[ProcessingCensus2016.ipynb](https://github.com/jv80/Population-Schools/blob/master/Work%20Files/ProcessingCensus2016.ipynb)|[CensusLocalAreaProfiles2016_cleaned.csv](https://github.com/jv80/Population-Schools/blob/master/Data/CensusLocalAreaProfiles2016_cleaned.csv)
 
 ### Workflow of data wringling of Schools dataset
-[Map](https://arcg.is/1L49ez)
+
 ### Workflow of generation of the map
 
 
