@@ -26,7 +26,10 @@ CensusLocalAreaProfiles2016_cleaned.csv|ProcessingFemalePopulation2016.ipynb|Fem
 CensusLocalAreaProfiles2016_cleaned.csv|ProcessingMalePopulation2016.ipynb|MalePopulationDataset_cleaned.csv
 
 ### Workflow of data wringling of Schools dataset
-
+![alt text](https://github.com/jv80/Population-Schools/blob/master/Diagrams/Schools.png)
+| Input File | Work File | Output File|
+|--------------------------------:|--------------------------------:|--------------------------------:|
+schools.csv.csv|ProcessingSchools.ipynb|Schools_cleaned.geojson
 ### Workflow of generation of the map
 
 
