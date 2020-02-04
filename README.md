@@ -30,7 +30,7 @@ CensusLocalAreaProfiles2016_cleaned.csv|ProcessingMalePopulation2016.ipynb|MaleP
 
 | Input File | Work File | Output File|
 |--------------------------------:|--------------------------------:|--------------------------------:|
-schools.csv.csv|ProcessingSchools.ipynb|Schools_cleaned.geojson
+schools.csv|ProcessingSchools.ipynb|Schools_cleaned.geojson
 ### Workflow of generation of the map
 
 
