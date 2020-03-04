@@ -31,7 +31,7 @@ Three different workflows were used in this work in order to generate a final ma
 ![alt text](https://github.com/jv80/Population-Schools/blob/master/Diagrams/Schools.PNG)
 
 | Input/Output File | Work File |
-|--------------------------------:|--------------------------------:|--------------------------------:|
+|--------------------------------:|--------------------------------:|
 [schools.csv](https://github.com/jv80/Population-Schools/blob/master/Data/schools.csv)|[ProcessingSchools.ipynb](https://github.com/jv80/Population-Schools/blob/master/Work%20Files/ProcessingSchools.ipynb)
 
 ### Visualization of the data (Map)
