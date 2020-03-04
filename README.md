@@ -32,12 +32,9 @@ Three different workflows were used in this work in order to generate a final ma
 
 | Input File | Work File | Output File|
 |--------------------------------:|--------------------------------:|--------------------------------:|
-schools.csv|ProcessingSchools.ipynb|Schools_cleaned.geojson
-### Workflow of generation of the map
+[schools.csv](https://github.com/jv80/Population-Schools/blob/master/Data/schools.csv)|[ProcessingSchools.ipynb](https://github.com/jv80/Population-Schools/blob/master/Work%20Files/ProcessingSchools.ipynb)
 
-
-
-### Workflow of viasualization of all information processed
+### Visualization of the data (Map)
 
 
 
