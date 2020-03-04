@@ -25,7 +25,7 @@ Three different workflows were used in this work in order to generate a final ma
 |--------------------------------:|--------------------------------:|--------------------------------:|
 |[CensusLocalAreaProfiles2016.csv](https://github.com/jv80/Population-Schools/blob/master/Data/CensusLocalAreaProfiles2016.csv)|[ProcessingCensus2016.ipynb](https://github.com/jv80/Population-Schools/blob/master/Work%20Files/ProcessingCensus2016.ipynb)|[CensusLocalAreaProfiles2016_cleaned.csv](https://github.com/jv80/Population-Schools/blob/master/Data/CensusLocalAreaProfiles2016_cleaned.csv)
 [CensusLocalAreaProfiles2016_cleaned.csv](https://github.com/jv80/Population-Schools/blob/master/Data/CensusLocalAreaProfiles2016.csv)|[ProcessingFemalePopulation2016.ipynb](https://github.com/jv80/Population-Schools/blob/master/Work%20Files/ProcessingFemalePopulation2016.ipynb)|[FemalePopulationDataset_cleaned.csv](https://github.com/jv80/Population-Schools/blob/master/Data/FemalePopulationDataset_cleaned.csv)
-CensusLocalAreaProfiles2016_cleaned.csv|ProcessingMalePopulation2016.ipynb|MalePopulationDataset_cleaned.csv
+[CensusLocalAreaProfiles2016_cleaned.csv](https://github.com/jv80/Population-Schools/blob/master/Data/CensusLocalAreaProfiles2016.csv)|[ProcessingMalePopulation2016.ipynb](https://github.com/jv80/Population-Schools/blob/master/Work%20Files/ProcessingMalePopulation2016.ipynb)|[MalePopulationDataset_cleaned.csv](https://github.com/jv80/Population-Schools/blob/master/Data/MalePopulationDataset_cleaned.csv)
 
 ### Workflow of data wringling of Schools dataset
 ![alt text](https://github.com/jv80/Population-Schools/blob/master/Diagrams/Schools.PNG)
