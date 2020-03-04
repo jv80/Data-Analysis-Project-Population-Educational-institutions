@@ -2,7 +2,7 @@
 Population/Schools is a personal work that show different faces of data analysis and data processing with real datasets.
 The goal of this project is to show examples of input/output data, data cleaning, visualization and data analysis.
 
-The final product of this project is a map of Vancouver with the information of the schools and population(between 0-19 years old) per local area. 
+The final product of this project is a map of Vancouver with the information of the schools and population(between 0-17 years old) per local area. 
 ## Datasets
 Three different datasets were used in this project:
 1. [Dataset of Vancouver census 2016 using the City's 22 local planning areas from City of Vancouver open data website](https://data.vancouver.ca/datacatalogue/censusLocalAreaProfiles2016.htm "City of Vancouver open data portal")
