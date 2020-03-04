@@ -30,7 +30,7 @@ Three different workflows were used in this work in order to generate a final ma
 ### Workflow of data wringling of Schools dataset
 ![alt text](https://github.com/jv80/Population-Schools/blob/master/Diagrams/Schools.PNG)
 
-| Input File | Work File | Output File|
+| Input/Output File | Work File |
 |--------------------------------:|--------------------------------:|--------------------------------:|
 [schools.csv](https://github.com/jv80/Population-Schools/blob/master/Data/schools.csv)|[ProcessingSchools.ipynb](https://github.com/jv80/Population-Schools/blob/master/Work%20Files/ProcessingSchools.ipynb)
 
