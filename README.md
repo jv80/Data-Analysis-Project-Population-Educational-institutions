@@ -36,6 +36,8 @@ Three different workflows were used in this work in order to generate a final ma
 
 ### Visualization of the data (Final Map)
 
+https://jhyvaz.maps.arcgis.com/home/webmap/viewer.html?webmap=4db2cb1e776b48fea037611e29dc3482
+
 
 
 
