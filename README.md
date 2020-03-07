@@ -1,5 +1,5 @@
 # Population/Schools(Data Analysis Project)
-Population/Schools is a personal work that show different faces of data analysis and data processing with real datasets.
+Population/Schools is a personal work that shows different phases of data analysis and data processing with real datasets.
 The goal of this project is to show examples of input/output data, data cleaning, visualization and data analysis.
 
 The final product of this project is a map of Vancouver with the information of the schools and population(between 5-19 years old) per local area. 
@@ -12,12 +12,12 @@ Three different datasets were used in this project:
 3. [Map of 22 local planning areas of Vancouver from City of Vancouver open data website](https://data.vancouver.ca/datacatalogue/localAreaBoundary.htm "City of Vancouver open data portal")
 ## Specific Objetives
 1. Data wringling of Census 2016 and school datasets.
-2. Creation of two new processed datasets for female and male between 5 and 19 years old from Census 2016.
+2. Create two new processed datasets for female and male between 5 and 19 years old from Census 2016.
 3. Data wringling of Schools dataset
-4. Generation of the map of 22 local planning areas of Vancouver.
-5. Visualization of the all data in a map of Vancouver.
+4. Generate of the map of 22 local planning areas of Vancouver.
+5. Visualize of the all data in a map of Vancouver.
 ## Workflows 
-Three different workflows were used in this work in order to generate a final map of the 22 local planning areas of the City os Vancouver with a the localization of the schools, amount of people between 0 and 17 years old.
+Three different workflows were used in this project to generate a final map of the 22 local planning areas of the City of Vancouver with a the localization of the schools, amount of people between 0 and 17 years old.
 ### Workflow of data wringling of Census 2016 dataset
 ![alt text](https://github.com/jv80/Population-Schools/blob/master/Diagrams/MainWorkflow.png)
 
