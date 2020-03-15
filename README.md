@@ -11,7 +11,7 @@ Three different datasets were used in this project:
 
 3. [Map of 22 local planning areas of Vancouver from City of Vancouver open data website](https://data.vancouver.ca/datacatalogue/localAreaBoundary.htm "City of Vancouver open data portal")
 ## Specific Objetives
-1. Data wringling of Census 2016 and school datasets.
+1. Data wrangling of Census 2016 and school datasets.
 2. Create two new processed datasets for female and male between 5 and 19 years old from Census 2016.
 3. Data wringling of Schools dataset
 4. Generate of the map of 22 local planning areas of Vancouver.
