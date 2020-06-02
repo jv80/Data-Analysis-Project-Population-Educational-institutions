@@ -36,7 +36,7 @@ Three different workflows were used in this project to generate a final map of t
 
 ### Visualization of the data (Final Map)
 
-https://jhyvaz.maps.arcgis.com/home/webmap/viewer.html?webmap=4db2cb1e776b48fea037611e29dc3482
+https://jhyvaz.maps.arcgis.com/apps/webappviewer/index.html?id=4397b727c9414c5c99e855284b57c4a6
 
 
 
